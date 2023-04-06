@@ -1,3 +1,4 @@
+//https://www.iostream.vn/article/giai-thuat-de-quy-A103BL
 bool isEven(unsigned int n) 
 {
     if (n == 0)
