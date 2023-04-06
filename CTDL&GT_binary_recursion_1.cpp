@@ -1,3 +1,4 @@
+//https://www.iostream.vn/article/giai-thuat-de-quy-A103BL
 int combine(int n, int k)
 {
     if (k == 0 || k == n)
